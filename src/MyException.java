@@ -10,6 +10,8 @@ public class MyException {
             z=x/y; //Exception occurs
             System.out.println("Exception Not Occur");
         }
+//        error aa skta isliye hum try bnate hai
+//        catch
         catch(ArithmeticException e)
         {
             System.out.println(e.getMessage());
