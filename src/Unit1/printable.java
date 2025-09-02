@@ -1,4 +1,6 @@
- public interface printable{
+package Unit1;
+
+public interface printable{
         void print();
         private void my()
         {
